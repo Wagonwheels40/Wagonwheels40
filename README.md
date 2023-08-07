@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**`I'm Daniel and I'm an inspiring Front End Developer`**
+**`I'm Daniel and I'm a Front End Developer`**
 
 I'm passionate about front end development and have extensive expertise in creating engaging and interactive user interfaces. I love building web applications and improving on my coding skills. I also have core knowledge of security and networking from my previous studies.  
 
