@@ -32,9 +32,8 @@ I'm passionate about front end development and have extensive expertise in creat
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wagonwheels40&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wagonwheels40)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wagonwheels40&theme=gruvbox&border_radius=4.5) 
 
 #
 
