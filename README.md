@@ -32,7 +32,7 @@ I'm passionate about front end development and have extensive expertise in creat
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wagonwheels40)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wagonwheels40&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
