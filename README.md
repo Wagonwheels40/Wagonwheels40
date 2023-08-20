@@ -42,7 +42,7 @@ I'm passionate about front end development and have extensive expertise in creat
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I started coding when I was studying an IT course at TasTAFE in Tasmania.  I learned basic python and how to make websites using HTML and CSS, and I quickly became invested in coding there after.  I continued self studing with FreeCodeCamp and The Odin Project. I would use these resources to learn more and also practice by making small projects and uploading them on here.  I've gained proficiency in HTML, CSS, and JavaScript.  I also have some knowledge of databases such as MongoDB.  With time, I expanded my knowledge and explored other technologies.  I regularly use virtual machines to become more familiar with other operating systems like Unix/Linux.  My coding and IT journey has been challenging but also very rewarding.  I will continue to upload my projects on here to document my progress and share what I've learned.  Feel free to get in touch with me on my website below.
 
-  [website]: https://your-website.com
+  [website]: dkwagner.com
 </details>
 
 
